@@ -39,7 +39,7 @@ layers:
   - F16
   - BACKSPACE
   - {t: ENTER, h: '2'}
-  - {t: '&to_layer_0 LANG2', h: '3'}
+  - {t: '&to_layer_0 LANG2', h: '4'}
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: SPACE, h: '1'}
   - LEFT ALT
@@ -168,8 +168,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '4':
@@ -212,7 +212,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
   '5':
