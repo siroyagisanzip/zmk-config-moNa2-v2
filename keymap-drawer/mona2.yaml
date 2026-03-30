@@ -16,7 +16,7 @@ layers:
   - D
   - F
   - G
-  - {t: ▽, type: trans}
+  - ':'
   - H
   - J
   - K
@@ -28,7 +28,7 @@ layers:
   - V
   - B
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '"'
   - N
   - M
   - ','
@@ -41,7 +41,7 @@ layers:
   - {t: LANGUAGE 1, h: SymNum}
   - {t: '&to_layer_0 SPACE', h: Mac_Win}
   - {t: DEL, h: BACKSPACE}
-  - {t: ENTER, h: '9'}
+  - {t: ENTER, h: Func}
   - LEFT ALT
   Mac_Win:
   - '1'
@@ -102,24 +102,24 @@ layers:
   - D
   - F
   - G
-  - {t: ▽, type: trans}
+  - ':'
   - H
-  - LEFT ARROW
-  - DOWN ARROW
-  - RIGHT ARROW
-  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - LEFT SHIFT
   - Z
   - X
   - C
   - V
   - B
   - {t: TAB, h: '5'}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - DELETE
-  - PAGE UP
-  - PAGE DOWN
-  - {t: ▽, type: trans}
+  - '"'
+  - N
+  - M
+  - ','
+  - .
+  - /
   - LEFT CONTROL
   - LEFT GUI
   - LEFT ALT
@@ -127,7 +127,7 @@ layers:
   - {t: LANG1, h: SymNum}
   - {t: SPACE, h: Win_Win}
   - BACKSPACE
-  - {t: ENTER, h: '9'}
+  - {t: ENTER, h: Func}
   - {t: ▽, type: trans}
   Win_Win:
   - '!'
@@ -387,41 +387,41 @@ layers:
   - BACKSPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  '9':
+  Func:
+  - HOME
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&bootloader'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - PSCRN
+  - LEFT SHIFT
+  - {t: ▽, type: trans}
+  - '&msc SCRL_UP'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - '&mkp MB1'
+  - UP
+  - '&mkp MB2'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_DOWN'
+  - '&msc SCRL_RIGHT'
+  - MUTE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - LEFT
+  - DOWN
+  - RIGHT
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - END
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
