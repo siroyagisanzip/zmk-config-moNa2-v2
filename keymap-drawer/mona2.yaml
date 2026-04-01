@@ -27,7 +27,7 @@ layers:
   - C
   - V
   - B
-  - {t: ▽, type: trans}
+  - {t: '-', h: Ajast}
   - '"'
   - N
   - M
@@ -457,7 +457,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
