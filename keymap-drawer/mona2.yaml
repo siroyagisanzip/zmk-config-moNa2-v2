@@ -175,7 +175,7 @@ layers:
   iPad_Base:
   - Q
   - W
-  - {t: ▽, type: trans}
+  - E
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: BT, h: '0'}
