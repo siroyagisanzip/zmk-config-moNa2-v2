@@ -189,7 +189,9 @@ path.combo {
 </g>
 <g transform="translate(420, 84)" class="key keypos-15">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">:</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">LEFT</tspan><tspan x="0" dy="1.2em">ARROW</tspan>
+</text>
 </g>
 <g transform="translate(476, 84)" class="key keypos-16">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -209,9 +211,7 @@ path.combo {
 </g>
 <g transform="translate(700, 84)" class="key keypos-20">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">
-<tspan x="0" dy="-0.6em">LEFT</tspan><tspan x="0" dy="1.2em">SHIFT</tspan>
-</text>
+<text x="0" y="0" class="key tap">-</text>
 </g>
 <g transform="translate(28, 140)" class="key keypos-21">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -236,12 +236,14 @@ path.combo {
 <g transform="translate(308, 140)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">Gui+TAB</text>
-<a href="#x_x">
-<text x="0" y="24" class="key hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="0" y="24" class="key hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g transform="translate(420, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">&quot;</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">RIGHT</tspan><tspan x="0" dy="1.2em">ARROW</tspan>
+</text>
 </g>
 <g transform="translate(476, 140)" class="key keypos-28">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -261,7 +263,9 @@ path.combo {
 </g>
 <g transform="translate(700, 140)" class="key keypos-32">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<text x="0" y="0" class="key tap">/</text>
+<text x="0" y="0" class="key tap">
+<tspan x="0" dy="-0.6em">LEFT</tspan><tspan x="0" dy="1.2em">SHIFT</tspan>
+</text>
 </g>
 <g transform="translate(28, 196)" class="key keypos-33">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -322,8 +326,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -540,8 +544,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -661,8 +665,8 @@ path.combo {
 <g transform="translate(308, 140)" class="key keypos-26">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">TAB</text>
-<a href="#x_x">
-<text x="0" y="24" class="key hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="0" y="24" class="key hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g transform="translate(420, 140)" class="key keypos-27">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
@@ -743,8 +747,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -933,8 +937,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -942,8 +946,8 @@ path.combo {
 </g>
 </g>
 </g>
-<g transform="translate(30, 1120)" class="layer-4">
-<text x="0" y="28" class="label" id="x_x">4:</text>
+<g transform="translate(30, 1120)" class="layer-iPad_Base">
+<text x="0" y="28" class="label" id="iPad_Base">iPad_Base:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 28)" class="key trans keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -988,9 +992,8 @@ path.combo {
 <g transform="translate(700, 28)" class="key keypos-9">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">BT</text>
-<a href="#x_x">
-<text x="0" y="24" class="key hold layer-activator">4</text>
-</a></g>
+<text x="0" y="24" class="key hold">4</text>
+</g>
 <g transform="translate(28, 84)" class="key trans keypos-10">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
@@ -1128,8 +1131,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -1137,8 +1140,8 @@ path.combo {
 </g>
 </g>
 </g>
-<g transform="translate(30, 1400)" class="layer-5">
-<text x="0" y="28" class="label" id="x_x">5:</text>
+<g transform="translate(30, 1400)" class="layer-iPad_Win">
+<text x="0" y="28" class="label" id="iPad_Win">iPad_Win:</text>
 <g transform="translate(0, 56)">
 <g transform="translate(28, 28)" class="key trans keypos-0">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
@@ -1324,8 +1327,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -1509,8 +1512,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -1694,8 +1697,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -1777,14 +1780,12 @@ path.combo {
 </g>
 <g transform="translate(532, 84)" class="key keypos-17">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#x_x">
-<text x="0" y="0" class="key tap layer-activator">4</text>
-</a></g>
+<text x="0" y="0" class="key tap">4</text>
+</g>
 <g transform="translate(588, 84)" class="key keypos-18">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
-<a href="#x_x">
-<text x="0" y="0" class="key tap layer-activator">5</text>
-</a></g>
+<text x="0" y="0" class="key tap">5</text>
+</g>
 <g transform="translate(644, 84)" class="key keypos-19">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <a href="#x_x">
@@ -1884,8 +1885,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -2082,8 +2083,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>
@@ -2117,9 +2118,8 @@ path.combo {
 <g transform="translate(252, 28)" class="key keypos-4">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">BT</text>
-<a href="#x_x">
-<text x="0" y="24" class="key hold layer-activator">4</text>
-</a></g>
+<text x="0" y="24" class="key hold">4</text>
+</g>
 <g transform="translate(476, 28)" class="key trans keypos-5">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
@@ -2274,8 +2274,8 @@ path.combo {
 <path d="M364,196 l-37,0" class="combo"/>
 <rect rx="6" ry="6" x="350" y="183" width="28" height="26" class="combo"/>
 <text x="364" y="196" class="combo tap">ESC</text>
-<a href="#x_x">
-<text x="364" y="207" class="combo hold layer-activator">5</text>
+<a href="#iPad_Win">
+<text x="364" y="207" class="combo hold layer-activator"><tspan style="font-size: 88%">iPad_Win</tspan></text>
 </a></g>
 <g class="combo combopos-1">
 <rect rx="6" ry="6" x="98" y="71" width="28" height="26" class="combo"/>

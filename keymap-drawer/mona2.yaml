@@ -16,24 +16,24 @@ layers:
   - D
   - F
   - G
-  - ':'
+  - LEFT ARROW
   - H
   - J
   - K
   - L
-  - LEFT SHIFT
+  - '-'
   - Z
   - X
   - C
   - V
   - B
-  - {t: Gui+TAB, h: '5'}
-  - '"'
+  - {t: Gui+TAB, h: iPad_Win}
+  - RIGHT ARROW
   - N
   - M
   - ','
   - .
-  - /
+  - LEFT SHIFT
   - LCTRL
   - LEFT ALT
   - LEFT COMMAND
@@ -113,7 +113,7 @@ layers:
   - C
   - V
   - B
-  - {t: TAB, h: '5'}
+  - {t: TAB, h: iPad_Win}
   - '"'
   - N
   - M
@@ -172,7 +172,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  '4':
+  iPad_Base:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -215,7 +215,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR ALL
-  '5':
+  iPad_Win:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -475,6 +475,6 @@ layers:
   - {type: held}
 combos:
 - p: [39, 38]
-  k: {t: ESC, h: '5'}
+  k: {t: ESC, h: iPad_Win}
 - p: [11, 12]
   k: TAB
