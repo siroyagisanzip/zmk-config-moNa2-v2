@@ -124,10 +124,10 @@ layers:
   - LEFT GUI
   - LEFT COMMAND
   - LANGUAGE 2
-  - {t: LANG1, h: SymNum}
+  - {t: LANG1, h: Func}
   - {t: SPACE, h: Win_Win}
   - BACKSPACE
-  - {t: ENTER, h: Func}
+  - {t: ENTER, h: Ajast}
   - {t: ▽, type: trans}
   Win_Win:
   - '!'
@@ -378,7 +378,7 @@ layers:
   - '2'
   - '3'
   - '='
-  - '&mkp MB5'
+  - '&mkp MB1'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
