@@ -21,19 +21,19 @@ layers:
   - J
   - K
   - L
-  - '-'
+  - LEFT SHIFT
   - Z
   - X
   - C
   - V
   - B
-  - {t: Gui+TAB, h: iPad_Win}
+  - TAB
   - RIGHT ARROW
   - N
   - M
   - ','
   - .
-  - LEFT SHIFT
+  - '-'
   - LCTRL
   - LEFT ALT
   - LEFT COMMAND
@@ -113,19 +113,19 @@ layers:
   - C
   - V
   - B
-  - {t: TAB, h: iPad_Win}
+  - TAB
   - '"'
   - N
   - M
   - ','
   - .
-  - /
+  - '-'
   - LEFT CONTROL
   - LEFT GUI
   - LEFT COMMAND
   - LANGUAGE 2
-  - {t: LANG1, h: Func}
   - {t: SPACE, h: Win_Win}
+  - {t: LANGUAGE 1, h: SymNum}
   - BACKSPACE
   - {t: ENTER, h: Ajast}
   - {t: ▽, type: trans}
@@ -167,8 +167,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -176,33 +176,33 @@ layers:
   - Q
   - W
   - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - A
+  - S
+  - D
+  - F
+  - G
   - {t: ▽, type: trans}
+  - H
+  - J
+  - K
+  - L
   - {t: ▽, type: trans}
-  - {t: BT, h: '0'}
-  - {t: BT, h: '1'}
-  - {t: BT, h: '2'}
-  - {t: BT, h: '3'}
-  - {t: BT, h: '4'}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - TAB
   - '&bootloader'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - N
+  - M
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - BT CLR
@@ -242,20 +242,20 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '6':
