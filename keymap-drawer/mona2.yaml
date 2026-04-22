@@ -102,7 +102,7 @@ layers:
   - D
   - F
   - G
-  - ':'
+  - LEFT ARROW
   - H
   - J
   - K
@@ -114,14 +114,14 @@ layers:
   - V
   - B
   - TAB
-  - '"'
+  - RIGHT ARROW
   - N
   - M
   - ','
   - .
   - '-'
   - LEFT CONTROL
-  - LEFT GUI
+  - LEFT ALT
   - LEFT COMMAND
   - LANGUAGE 2
   - {t: SPACE, h: Win_Win}
@@ -188,32 +188,32 @@ layers:
   - D
   - F
   - G
-  - {t: ▽, type: trans}
+  - LEFT ARROW
   - H
   - J
   - K
   - L
-  - {t: ▽, type: trans}
+  - '-'
   - Z
   - X
   - C
   - V
   - B
   - TAB
-  - '&bootloader'
+  - RIGHT ARROW
   - N
   - M
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - BT CLR
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ','
+  - .
+  - LEFT SHIFT
+  - LEFT CONTROL
+  - LEFT ALT
+  - LEFT COMMAND
+  - LANGUAGE 2
+  - {t: SPACE, h: iPad_Win}
+  - {t: LANGUAGE 1, h: SymNum}
+  - BACKSPACE
+  - {t: ENTER, h: Func}
   - BT CLR ALL
   iPad_Win:
   - {t: ▽, type: trans}
@@ -253,9 +253,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
-  - {type: held}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   '6':
