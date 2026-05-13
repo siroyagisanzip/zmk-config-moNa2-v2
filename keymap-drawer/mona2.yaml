@@ -399,27 +399,27 @@ layers:
   - {t: ▽, type: trans}
   - PSCRN
   - LEFT SHIFT
-  - {t: ▽, type: trans}
-  - '&msc SCRL_UP'
-  - {t: ▽, type: trans}
+  - '&mkp MB1'
+  - UP ARROW
+  - '&mkp MB2'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&mkp MB1'
-  - UP
+  - '&msc SCRL_UP'
   - '&mkp MB2'
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - LEFT ARROW
+  - DOWN ARROW
+  - RIGHT ARROW
+  - MUTE
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '&msc SCRL_LEFT'
   - '&msc SCRL_DOWN'
   - '&msc SCRL_RIGHT'
-  - MUTE
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - LEFT
-  - DOWN
-  - RIGHT
   - {t: ▽, type: trans}
   - END
   - {t: ▽, type: trans}
